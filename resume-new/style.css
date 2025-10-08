@@ -1,6 +1,9 @@
+/*styles for my new resume */
 
 body {
-font-family: Oswald, sans-serif;
+font-family: open sans, sans-serif;
+font-size: 1em;
+color: #444;
 
 
 
@@ -21,26 +24,41 @@ font-family: Oswald, sans-serif;
 border-bottom: 1px solid #33485e;
 width: 60%;
 margin: 0 auto;
-text-align: center
+text-align: center;
+font-size: 3em;
+text-transform: uppercase;
 }
 
 .sectionheader {
 margin: 20px 0 10px 0;
  width: 70%;
  min-width: 300px;
+ font-size: 1.5em;
+ text-transform: uppercase;
+ background-color: #33485e;
+ color: white;
+ font-weight: 400;
 }
 
 /*styling as is */
 
 .jobtitle {
+    text-transform: uppercase;
+    font-size: 3em;
+    color: #33485e;
+    font-weight: 600;
+    font-size: 1.5em;
 
 }
 
 .organization {
     font-size: 1.25em;
+    font-weight: 400;
 }
 .date {
     margin: 2px 0 0 0;
+    font-weight: 400;
+    font-size: 1.5em;
 }
 
 .description {
