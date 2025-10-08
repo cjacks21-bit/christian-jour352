@@ -80,6 +80,9 @@ margin: 20px 0 10px 0;
 
 #do {
     margin: 5px 0 0 0;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1em;
 }
 
 /*With the Class and id if that's right */
