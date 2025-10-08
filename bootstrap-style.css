@@ -1,0 +1,31 @@
+/*this is my style sheet */
+
+.col-md-6 {
+    align-items: center;
+}
+
+.bi {
+size: 3em;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Special Elite', sans-serif;
+}
+
+.nav-link {
+      font-family: 'Special Elite', sans-serif;
+  
+}
+
+.navbar-brand {
+          font-family: 'Special Elite', sans-serif;
+
+}
+
+.btn {
+           font-family: 'Special Elite', sans-serif;
+   
+}
+
