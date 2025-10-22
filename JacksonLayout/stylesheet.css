@@ -9,19 +9,21 @@
       font-family: "BBH Sans Bartle", sans-serif;
       letter-spacing: 2px;
       font-size: 35px;
+      background-color: lightgray;
+      padding: 40px;
 
 }
 
 #check {
-    color: greenyellow;
+    color: lightgreen;
 }
 
 #review {
-    color: greenyellow;
+    color: lightgreen;
 }
 
 #century {
-    color: greenyellow;
+    color: lightgreen;
 }
 
 #byline {
@@ -44,6 +46,26 @@ p {
 
 
 #cars {
-    width: 500px;
-    align-items: center;
+    width: 700px;
+    align-content: center;
+}
+
+#quote {
+    font-size: 40px;
+    font-weight: 400;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+#read {
+    background-color: lightgreen;
+}
+
+#second {
+    max-width: 500px;
+}
+
+h3{
+    font-style: italic;
+    text-align: center;
 }
