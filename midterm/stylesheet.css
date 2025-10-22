@@ -1,0 +1,49 @@
+nav.green-navbar {
+    background-color: lightgreen;
+    padding: 25px;
+    color: black;
+}
+
+#body-content {
+    text-align: center;
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+#first-pic {
+    width: 500px;
+    max-width: 500px;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+/* Hopefully the font for my subheading tags aren't an eye sore */
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+#quote {
+    font-size: 20px;
+    font-weight: 400;
+    background-color: lightgreen;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

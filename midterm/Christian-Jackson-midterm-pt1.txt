@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>Midterm</title>
+    </head>
+
+    <body>
+
+1.  In the sentence below, put in the necessary code that would allow users to click on the word Google and open Google's homepage in a new browser:
+        <p><a href="https://www.google.com/?zx=1761146011663&no_sw_cr=1" target="_blank">Google</a> is the best search engine in the world.</p>
+
+2.  Describe the purpose of a DIV tag.
+        <p>a div tag is essentially a container for the information you want in a certain section. If you wanted to style a certain part of your document different than the rest then you use a div tag. This helps to separate or divide the rest of the code.</p>
+
+        3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
+        <!Doctype html>
+        <head>
+<title></title>
+        </head>
+        <body>
+
+        </body>
+    </html>
+
+
+    4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
+        <p>You would put the link to the stylesheet in the head or body</p>
+
+
+5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
+        <p>You'd put the image or div tage in the body of html.</p>
+
+
+        6.  In the space below, put one DIV tag with a class of graphicbox and a second DIV tag with an ID of name.
+        <div class="graphicbox"></div>
+        <div id="name"></div>
+
+        7.  In the space below, put one DIV tag with an ID of apples and a class of fruit.
+<div class="fruit" id="apples"></div>
+
+8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
+.fruit {
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
+<img> 
+
+
+
+
+
+
+
+
+10.  Why do we use media queries?
+<p>It helps the page become more responsive, like changing the max width of the page. It can make the page more visually appealing not only on computers but on cellphones or just smaller screens.</p>
+
+
+11. What is the main difference between a serif and a sans-serif font?
+<p>the decorative ends to letters. Sans-serif are going to be more popular and visible on webpages.</p>
+
+
+
+
+
+
+
+
+12. Which of the following is a hexadecimal code?
+1. #FFCC33
+2. 123,543,242
+3. 101010101
+4. -213
+<p>#1 is the hexadecimal code.</p>
+
+
+
+
+
+
+
+
+       
+       
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
