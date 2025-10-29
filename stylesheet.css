@@ -1,0 +1,48 @@
+/*styles for my new resume */
+
+.col-md-6 {
+    align-items: center;
+}
+
+.bi {
+size: 3em;
+}
+
+
+h1.display-5 {
+    font-family: "PT Sans", sans-serif;
+    color: red;
+}
+
+.heading {
+    font-family: "PT Sans", sans-serif;
+    color: red;
+}
+
+#heading {
+    font-family: "PT Sans", sans-serif;
+    color: red;
+}
+
+.nav-link {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  
+}
+
+.navbar-brand {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.navbar {
+    background-color: red;
+}
+
+
+.row { 
+    padding-bottom: 50px;
+
+}
+
+
+
+
